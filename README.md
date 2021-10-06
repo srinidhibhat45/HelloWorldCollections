@@ -1,2 +1,2 @@
 # HelloWorldCollections
-Add Hello World programmes in as many languages as you want and ill merge them!
+Add Hello World Programmes in as many languages as you want and i'll merge them! Don't repeat a language!!
