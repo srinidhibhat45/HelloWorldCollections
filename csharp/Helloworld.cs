@@ -2,10 +2,10 @@
 using System;
 
 // namespace declaration
-namespace HelloWorldApp {
+namespace HelloWorld{
 	
 	// Class declaration
-	class Csharp {
+	class Hello {
 		
 		// Main Method
 		static void Main(string[] args) {
